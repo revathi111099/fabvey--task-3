@@ -1,0 +1,40 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.chart{
+	background-color:black;
+	padding:3px;
+}
+.pouch{
+	width:868px;
+	height:auto;
+	background-color:white;
+	border:1px solid black;
+	margin:258px;
+}
+.icon i{
+	font-size:40px;	
+}
+.pen h1{
+	font-size:25px;
+	color:black;
+}
+.pen p{
+	padding:19px 3px;
+}
+.pouch{
+	display:flex;
+	padding:25px;
+}
+.icon1 i{
+	font-size:40px;
+}
+.book h2{
+	font-size:25px;
+	color:black;
+}
+.book p{
+	padding:6px 3px;
+}
